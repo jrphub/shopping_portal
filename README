@@ -9,8 +9,24 @@ Description -
 It has two modules
 User and Admin
 
+To see the admin module log in with following credentials
+
 Admin username - admin123@xyz.com
 Admin password - admin123
+
+Being an admin one can add items, edit items, see all orders and edit order's status
+
+User module -
+
+A user can see the items available to sell in each brand
+But to buy he has to log in. So before buying he has to register himself and then log in.
+
+After placing an order he can check his order status in dashboard submitting the reference key of corresponding order
+or he can also see all his orders and status of each order.
+
+User module has all dashboard feaures like changing password, address etc
+
+In sign up form all the fields are mandatory.
 
 */
 
