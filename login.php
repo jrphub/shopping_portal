@@ -1,5 +1,5 @@
 <?php
-ini_set("session.gc_maxlifetime", 24*60*60);
+ini_set("session.gc_maxlifetime", 20*60);
 session_start();
 
 require_once 'includes/config.php';
